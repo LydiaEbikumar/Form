@@ -1,0 +1,57 @@
+body{
+    
+    background-image:url(https://cdn.pixabay.com/photo/2014/01/23/21/33/blue-250770_640.jpg);
+}
+.head{
+    font-weight: bolder;
+    color: rgb(6, 6, 6);
+    text-align: center;
+}
+.form{
+    text-align: center;
+    font-weight: bolder;
+    margin: 40px;
+}
+.btn{
+    text-align: center;
+    font-weight: bolder;
+
+}   
+.btn1{
+    border: 2px solid black;
+    
+}
+.btn2{
+    border: 2px solid black;
+    
+}
+input{
+    margin: 5px;
+}
+.dept{
+    text-align: center;
+    font-weight: bolder;
+}
+.inp1:focus{
+    background-color:rgb(134, 186, 203);
+}
+.inp2:focus{
+    background-color:rgb(134, 186, 203);
+}
+.inp3:focus{
+    background-color:rgb(134, 186, 203) ;
+}
+.inp4:focus{
+    background-color:rgb(134, 186, 203);
+}
+.inp5:focus{
+    background-color:rgb(134, 186, 203) ;
+}
+.btn1:hover{
+    background-color: rgb(43, 131, 185);
+    
+}
+.btn2:hover{
+    background-color:rgb(43, 131, 185) ;
+    
+}
